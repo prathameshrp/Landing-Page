@@ -7,15 +7,16 @@
 body
 {
     font-family: Roboto;
-    display: flex;
-    flex-direction: column;
+    /* display: flex;
+    flex-direction: column; */
+    /* margin: 20px; */
 
 }
 .header
 {
     color: #F9F8FA;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
     height: 70px;
 }
@@ -36,6 +37,7 @@ body
 .top-container
 {
     height: 45vh;
+    padding: 0 100px;
     background-color: #1f2937;
 }
 
@@ -52,7 +54,7 @@ body
 }
 .big-header-content
 {
-    width: 350px;
+    width: 430px;
     display: flex;
     flex-direction: column;
     gap: 8px;
@@ -77,11 +79,14 @@ h1
 {
     font-size: 48px;
 }
+p{
+    font-size: 18px;
+}
 .secondary-container
 {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
-    margin: 20px;
-    flex-wrap: wrap;
+    /* margin: 20px; */
+    /* flex-wrap: wrap; */
 }
