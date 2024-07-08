@@ -156,3 +156,32 @@ p{
     text-align: end;
     
 }
+
+/* call to action */
+
+.action-bar
+{
+    background-color: #3882f6;
+    padding: 38px;
+    display: flex;
+    justify-content: space-around;
+    color: #e5e7eb;
+    margin: 100px;
+    border-radius: 7px;
+}
+
+
+.action-bar .big-text
+{
+    font-size: 18px;
+    font-weight: bold;
+}
+.small-text
+{
+    font-size: 16px;
+}
+
+.action-bar button
+{
+    border: 1px solid #F9F8FA;
+}
