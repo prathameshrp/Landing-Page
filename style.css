@@ -216,7 +216,7 @@ p{
 
 .action-bar
 {
-    background-color: #3882f6;
+    background-color: #6F5060;
     padding: 38px;
     display: flex;
     justify-content: space-around;
@@ -239,6 +239,7 @@ p{
 .action-bar button
 {
     border: 1px solid #F9F8FA;
+   
 }
 
 .footer
