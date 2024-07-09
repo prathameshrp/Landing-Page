@@ -187,17 +187,18 @@ p{
 
 .quote
 {
-    background-color: #e5e7eb;
+    background-color: #989788;
     /* width: 100vw; */
     margin-top: 150px;
     padding: 100px 150px;
+    color: #fff;
 
 }
 
 .quote p, .quote span{
     font-style: italic;
     font-size: 36px;
-    color: 1f2937;
+    /* color: #1f2937; */
     font-weight: lighter;
 }
 
