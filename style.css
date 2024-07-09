@@ -157,6 +157,7 @@ p{
 .mid-container h1{
     font-size: 36px;
     margin: 30px;
+    color: #6F5060;
 }
 
 .cards
@@ -168,7 +169,7 @@ p{
 
 .card
 {
-    width: 150px;
+    width: 200px;
     text-align: center;
     display: flex;
     flex-direction: column;
@@ -178,9 +179,9 @@ p{
 
 .border
 {
-    width: 120px;
-    height: 120px;
-    border: 2px solid #3882f6;
+    width: 200px;
+    height: 200px;
+    border: 2px solid #6F5060;
     border-radius: 10px;
 }
 
